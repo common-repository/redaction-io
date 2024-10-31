@@ -1,0 +1,22 @@
+{
+  "name": "stack-webpack-encore",
+  "version": "1.0.0",
+  "description": "Stack Webpack Encore",
+  "main": "webpack.config.js",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^4.2.0",
+    "file-loader": "^6.2.0",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^13.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "encore-dev": "NODE_ENV=production encore dev --watch",
+    "encore-prod": "encore production"
+  },
+  "engines": {
+    "node": ">=19"
+  },
+  "author": "",
+  "license": "ISC"
+}

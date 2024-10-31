@@ -1,0 +1,19 @@
+{
+  "entrypoints": {
+    "redaction-io-metaboxes": {
+      "js": [
+        "/build/js/redaction-io-metaboxes.8fb91b54e0bc1f9d4a74.js"
+      ]
+    },
+    "redaction-io-option-page": {
+      "js": [
+        "/build/js/redaction-io-option-page.8fb91b54e0bc1f9d4a74.js"
+      ]
+    },
+    "redaction-io": {
+      "css": [
+        "/build/css/redaction-io.8fb91b54e0bc1f9d4a74.css"
+      ]
+    }
+  }
+}

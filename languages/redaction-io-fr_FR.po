@@ -1,0 +1,203 @@
+# Copyright (C) 2023 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/redaction-io\n"
+"POT-Creation-Date: 2023-01-13 00:29:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-01-31 15:29+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:16 inc/admin/admin.php:109
+msgid "Bulk create"
+msgstr "Création de masse"
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:19
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+"non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+msgstr ""
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:22
+msgid "Generate publications as :"
+msgstr "Générer des publications en tant que :"
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:35
+msgid "Languages :"
+msgstr "Langues :"
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:43
+msgid "Keywords (one keyword per line) :"
+msgstr "Mot clés (un mot clé par ligne) :"
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:44
+msgid ""
+"Keyword 1 \r\n"
+"Keyword 2 \r\n"
+"Keyword 3"
+msgstr ""
+"Mot clé 1 \r\n"
+"Mot clé 2 \r\n"
+"Mot clé 3"
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:47
+msgid "Generate publications"
+msgstr "Générer les publications"
+
+#: inc/admin/admin-pages/main.php:12
+msgid "License"
+msgstr "Licence"
+
+#: inc/admin/admin-pages/main.php:15
+msgid ""
+"Please enter your API key below. If you don't have one yet, take a look at "
+"our <a href=\"https://www.redaction.io/\" target=\"_blank\">details and "
+"prices</a>."
+msgstr ""
+"Veuillez entrer votre clé API ci-dessous. Si vous n'en avez pas encore, "
+"jetez un coup d'œil à nos <a href=\"https://www.redaction.io/\" target="
+"\"_blank\">détails et prix</a>."
+
+#: inc/admin/admin-pages/main.php:17
+msgid "API key"
+msgstr "Clé API"
+
+#: inc/admin/admin-pages/main.php:22
+msgid "Activate your API key"
+msgstr "Activez votre clé API"
+
+#: inc/admin/admin-pages/main.php:31
+msgid "Account information"
+msgstr "Informations sur le compte"
+
+#: inc/admin/admin-pages/main.php:36
+msgid "Email"
+msgstr ""
+
+#: inc/admin/admin-pages/main.php:37
+msgid "Token(s)"
+msgstr ""
+
+#: inc/admin/admin.php:91
+msgid "Your API key has been registered."
+msgstr "Votre clé API a été enregistrée."
+
+#: inc/admin/admin.php:104 inc/admin/metaboxes.php:36
+msgid "Redaction.io"
+msgstr ""
+
+#: inc/admin/admin.php:106
+msgid "Redaction.io Option Page"
+msgstr "Page d'option de Redaction.io"
+
+#: inc/admin/admin.php:107
+msgid "API"
+msgstr ""
+
+#: inc/admin/admin.php:171
+msgid "Publications are being generated"
+msgstr "Les publications sont en train d'être générées"
+
+#: inc/admin/admin.php:179 inc/xhr/admin.php:84
+msgid "You don't have enough tokens"
+msgstr "Vous n'avez pas assez de tokens"
+
+#: inc/admin/admin.php:206
+msgid "An error occurred while generating content"
+msgstr "Une erreur s'est produite lors de la génération du contenu"
+
+#: inc/admin/metaboxes/admin-metaboxes-keyword.php:7
+msgid "Keyword"
+msgstr "Mot clé"
+
+#: inc/admin/metaboxes/admin-metaboxes-keyword.php:14
+msgid "Generate"
+msgstr "Générer"
+
+#: inc/xhr/admin.php:91 inc/xhr/admin.php:119
+msgid "Please enter a keyword"
+msgstr "Veuillez entrer un mot-clé"
+
+#: inc/xhr/admin.php:126
+msgid "No task running"
+msgstr "Aucune tâche en cours"
+
+#: src/Helpers/Redaction_IO_API.php:27 src/Helpers/Redaction_IO_API.php:28
+msgid "Keyword Research in progress..."
+msgstr "Recherche de mots-clés en cours..."
+
+#: src/Helpers/Redaction_IO_API.php:29
+msgid "Topic Generation in progress..."
+msgstr "Génération de sujets en cours..."
+
+#: src/Helpers/Redaction_IO_API.php:30
+msgid "Text Generation..."
+msgstr "Génération de texte..."
+
+#: src/Helpers/Redaction_IO_API.php:31
+msgid "Title and Meta description..."
+msgstr "Titre et meta description..."
+
+#: src/Helpers/Redaction_IO_API.php:32 src/Helpers/Redaction_IO_API.php:33
+#: src/Helpers/Redaction_IO_API.php:34
+msgid "Content Optimization..."
+msgstr "Optimisation du contenu..."
+
+#: src/Helpers/Redaction_IO_API.php:35
+msgid "Done..."
+msgstr "Terminé..."
+
+#: inc/admin/admin-pages/bulk-create/bulk-create.php:11
+msgid "See list of publications"
+msgstr "Voir la liste des publications"
+
+#: inc/admin/admin.php:185
+msgid "[Redaction.io] Currently being created for the keyword: "
+msgstr "[Redaction.io] Actuellement en cours de création pour le mot-clé : "
+
+#: src/Helpers/Redaction_IO_API.php:189
+msgid "French"
+msgstr "Français"
+
+#: src/Helpers/Redaction_IO_API.php:190
+msgid "English"
+msgstr "Anglais"
+
+#: src/Helpers/Redaction_IO_API.php:191
+msgid "Italian"
+msgstr "Italien"
+
+#: src/Helpers/Redaction_IO_API.php:192
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: src/Helpers/Redaction_IO_API.php:193
+msgid "Brazilian"
+msgstr "Brésilien"
+
+#: src/Helpers/Redaction_IO_API.php:194
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: src/Helpers/Redaction_IO_API.php:195
+msgid "German"
+msgstr "Allemand"
+
+#: src/Helpers/Redaction_IO_API.php:196
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: inc/xhr/admin.php:180
+msgid "The post type is empty"
+msgstr "Le post type est vide"

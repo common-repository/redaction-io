@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Dotenv
+.env
+.env.*
+!.env.example
+
+# Composer / NPM
+/vendor
+/node_modules
+.nvmrc
+webpack.config.js
+
+# WP-CLI
+wp-cli.local.yml
